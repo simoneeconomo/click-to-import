@@ -2,9 +2,9 @@
 
 Importing XSLT utilities has never been soooo easy and fun!
 
-- Version: 0.1
+- Version: 0.1.1
 - Author: Simone Economo, my.ekoes@gmail.com
-- Build Date: 16th Oct 2010
+- Build Date: 13th Nov 2010
 - Requirements: Symphony CMS 2.1.0+
 
 ## Installation

@@ -4,7 +4,7 @@
 
 		public function about(){
 			return array('name' => 'Click-to-import',
-						 'version' => '0.1',
+						 'version' => '0.1.1',
 						 'author' => array(
 							'name' => 'Simone Economo',
 							'website' => 'http://www.lineheight.net',
